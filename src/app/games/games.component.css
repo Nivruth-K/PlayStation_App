@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");
+
+.font1 {
+  font-family: "Raleway", sans-serif !important;
+  font-size: 48px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.img_ad_size {
+  height: 700px;
+  width: 1800px;
+}
+.img_ad_size1 {
+  height: 800px;
+  width: 2050px;
+}
+
+.img_ad_size2 {
+  height: 250px;
+  width: 800px;
+}
+.img_ps_buy_size1 {
+  height: 500px;
+  width: 500px;
+}
+
+.home-game-card-inside {
+  margin-left: 150px;
+  margin-top: 200px;
+}
+
+.card {
+  margin: 1em;
+  width: calc(100% / 3);
+}
+
+.card-img-vd-ad {
+  height: 500px;
+  width: 750px;
+  margin-left: 150px;
+}
+
+.game-ad-card {
+  width: 2000px;
+  height: 800px;
+}
+
+.cards-wrapper {
+  display: flex;
+}
